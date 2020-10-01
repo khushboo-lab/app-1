@@ -33,8 +33,8 @@ yarn lint
 * 👨🏻‍💻  [Nicolás Arias](https://github.com/Narias1999)
 * 👨🏻‍💻  [Rafael Alvárez](https://github.com/rafeldev)
 
-## 📖 Lincense
-The (MIT) Lincense
+## 📖 License
+The (MIT) License
 
 ## ➕ Additional Info
 This is our final Project for the Platzi Master Program. 
